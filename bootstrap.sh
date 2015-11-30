@@ -32,7 +32,7 @@ fi
 ####
 # Devenv
 ####
-echo -e "${COL_GREEN}devenv ${COL_RESET}"
+echo -e "${COL_GREEN}goenv ${COL_RESET}"
 cd $DEV_ROOT
 
 REPO_PARENT=${DEV_ROOT}/github.com/buro9
